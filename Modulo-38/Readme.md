@@ -22,6 +22,6 @@ Descrição das aulas do módulo:
 
 Link do Projeto desenvolvido: em desenvolvimento
 
-Link do código do projeto: https://github.com/BrunoOliveira16/ecommerce-react
+Link do código do projeto: 
 
 Link do figma: https://www.figma.com/file/FiFpwvwwHX0rCbrXatjMg4/EPLAY?type=design&node-id=0-1& mode=design.
