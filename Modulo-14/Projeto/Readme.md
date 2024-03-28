@@ -46,8 +46,7 @@ O site da cafeteria é um projeto de design web que utiliza o framework bootstra
 
 <br>
 
-## 💻 Demonstração
-Para visualizar uma prévia do projeto <a href="#" target="_blank"><b>clique aqui</b></a>
+
 
 <br>
 
