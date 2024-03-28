@@ -73,7 +73,7 @@ Para executar este projeto localmente em sua máquina, siga estas etapas:
 
 ## 🙋🏻‍♂️ Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
+| [<img src="https://avatars.githubusercontent.com/u/132641090?v=4" width=115><br><sub>Emerson Penelli</sub>](https://github.com/EmersonPenelli) |
 | :---: |
 
 <br>
