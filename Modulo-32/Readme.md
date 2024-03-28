@@ -18,6 +18,6 @@ Descrição das aulas do módulo:
 
 <br>
 
-Link do Projeto desenvolvido: https://lista-de-tarefas-react-delta.vercel.app/
+Link do Projeto desenvolvido: 
 
-Link do código do projeto: https://github.com/BrunoOliveira16/lista-de-tarefas-react
+Link do código do projeto: 
