@@ -16,4 +16,3 @@ A entrega deste exercício consiste em:
 
 ## Solução
 
-https://github.com/BrunoOliveira16/efood/tree/feature/M36-02-efood
