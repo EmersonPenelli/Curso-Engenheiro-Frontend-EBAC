@@ -19,4 +19,4 @@ Descrição das aulas do módulo:
 
 Link do Projeto desenvolvido: em desenvolvimento
 
-Link do código do projeto: https://github.com/BrunoOliveira16/ecommerce-react
+Link do código do projeto: 
