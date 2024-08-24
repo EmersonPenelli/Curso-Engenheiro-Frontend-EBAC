@@ -16,7 +16,7 @@ D- inserindo o parâmetro junto da rota na propriedade path do componente Route
 <details>
     <summary>Resposta</summary>
 
-    inserindo o parâmetro junto da rota na propriedade path do componente Path.
+    inserindo o parâmetro junto da rota na propriedade path do componente Route.
 
     A resposta correta é " inserindo o parâmetro junto da rota na propriedade path do componente Path." O componente Path é um componente do React Router usado para definir rotas em um aplicativo React. Ele aceita um caminho de rota como argumento e pode conter parâmetros nomeados usando o caractere :. O valor do parâmetro será acessível no componente como uma propriedade com o mesmo nome.
 </details>
