@@ -20,8 +20,8 @@ Descrição das aulas do módulo:
 
 <br>
 
-Link do Projeto desenvolvido: em desenvolvimento
+Link do Projeto desenvolvido: https://efood-beta-nine.vercel.app/
 
-Link do código do projeto: 
+Link do código do projeto: https://github.com/EmersonPenelli/Efood
 
-Link do figma: https://www.figma.com/file/FiFpwvwwHX0rCbrXatjMg4/EPLAY?type=design&node-id=0-1& mode=design.
+Link do figma: https://www.figma.com/file/FiFpwvwwHX0rCbrXatjMg4/EPLAY?type=design&node-id=0-1&mode=design.
